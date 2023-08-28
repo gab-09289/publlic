@@ -17,7 +17,7 @@ module.exports = {
         'biasa-': '20px'
       },
       backgroundImage: {
-        'hero-img': "url('https://i.pinimg.com/originals/91/d7/fb/91d7fb01a2c4ad831a07c147d8138237.jpg')",
+        'hero-img': "url('https://i.pinimg.com/originals/fe/aa/36/feaa369a7890275a13e39b6784fcbd5d.jpg')",
         'woolen-w': "url('https://i.pinimg.com/originals/50/46/56/5046566ee9168d4927c3f11ae4c96cf2.png')",
         'noteen-': "url('https://i.pinimg.com/564x/8f/0d/4c/8f0d4c11b3e018b0392b6c8b53bd4ecc.jpg')",
         'redesign-upt': "url('https://i.pinimg.com/564x/21/0a/52/210a5266c730fd5c93909011f8e2b776.jpg')",
@@ -27,7 +27,11 @@ module.exports = {
         'gojo-': "url('https://custom-doodle.com/wp-content/uploads/doodle/jujutsu-kaisen-satoru-gojo-pixel/jujutsu-kaisen-satoru-gojo-pixel-doodle.gif')",
         'hero-portofolio': "url('https://i.pinimg.com/originals/bc/24/b2/bc24b2dd54aeb8d2cb19593a6fef29f0.gif')",
         'b&t-': "url('https://i.pinimg.com/originals/0d/63/49/0d6349b7d8bd278fb9c8a66581a97071.png')",
-        'search-icon': "url('https://i.pinimg.com/236x/d0/db/51/d0db51bfb8797366caebdf2a238849f0.jpg')"
+        'search-icon': "url('https://i.pinimg.com/236x/d0/db/51/d0db51bfb8797366caebdf2a238849f0.jpg')",
+        'academia-': "url('https://i.pinimg.com/564x/3a/b6/f0/3ab6f061cbc449ee858188a9ff3f4b25.jpg')",
+        'portofolio-hero': "url('https://i.pinimg.com/564x/05/da/a3/05daa361d5ef7a60393e396ed35452d3.jpg')",
+        'checkered-1': "url('https://i.pinimg.com/564x/61/ea/76/61ea764931626bf595ce925a09bf95b5.jpg')",
+        'plus-+': "url('https://i.pinimg.com/originals/cd/12/98/cd1298a2aa373683d1ee571bf87bc8f8.png')"
       },
       dropShadow: {
         '4xl': '-15px 15px rgba(41,39,39,1)',
